@@ -1,2 +1,2 @@
 # JenkinsIntegrationTest
-A test repo to experioment with Jenkins integration
+A test repo to experiment with Jenkins integration
